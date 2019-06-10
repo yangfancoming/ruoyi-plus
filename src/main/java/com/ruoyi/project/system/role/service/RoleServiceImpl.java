@@ -192,7 +192,7 @@ public class RoleServiceImpl implements IRoleService
     {
         int rows = 1;
         // 新增用户与角色管理
-        List<RoleMenu> list = new ArrayList<RoleMenu>();
+        List<RoleMenu> list = new ArrayList<>();
         for (Long menuId : role.getMenuIds())
         {
             RoleMenu rm = new RoleMenu();

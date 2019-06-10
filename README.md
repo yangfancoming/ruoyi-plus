@@ -1,8 +1,8 @@
-## 平台简介
+## 平台简介  账号 密码  (admin/admin123)
 
 源码来自模板平台“若依”。
 <br/>码云地址：https://gitee.com/y_project/RuoYi
-<br/>演示地址：http://ruoyi.club/login(admin/admin123)
+<br/>演示地址：http://ruoyi.club/login
 
 ## 内置功能
 
